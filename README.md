@@ -22,18 +22,23 @@ The final project/goal we are trying to accomplish is to create a motor that reg
 **Dec 10 - 16: Research**
 - PID Algorithms Designs
 - Previous projects
+
 **Jan 4 - 7:**
 - Pick functions and outline code
-- Jan 8 - 20: Solidworks
+
+**Jan 8 - 20: Solidworks**
 - Initial shape/structure
 - Spacing
 - Mounts
+
 **Jan 20 - Jan 31: Code**
 - PID
 - Calculate RPM
+
 **Feb 1 - Feb 4: Integration and Proofing**
 - Wiring Arduino
 - Printing Parts
+
 **Feb 6 - 15: Assembly and Polish**
 
 ## Possible Issues
