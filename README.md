@@ -2,10 +2,7 @@
 Project was creating a box with a cruise-control system for a spinning wheel built in. Completed on May 8th, 2017, in collaboration with Cole Fairchild. Original [wiki page](http://wiki.chssigma.com/index.php?title=Dani_and_Cole%27s_Motor_Project).
 
 # Table of Contents
-* [Planning](#planning)
-* [Progress](#progress)
-* [Finsihed Product](#finished-product)
-
+<!-- TOC -->autoauto- [Motor-Project](#motor-project)auto- [Table of Contents](#table-of-contents)auto- [Planning](#planning)auto    - [Problem/Goal](#problemgoal)auto    - [Materials](#materials)auto    - [Timeline](#timeline)auto    - [Possible Issues](#possible-issues)auto    - [Milestones](#milestones)auto    - [Box Sketch](#box-sketch)auto- [Progress](#progress)auto        - [Stage 1](#stage-1)auto        - [Stage 2](#stage-2)auto        - [Stage 3](#stage-3)auto        - [Stage 4](#stage-4)auto        - [Stage 5](#stage-5)auto        - [Stage 6](#stage-6)auto        - [Stage 7](#stage-7)auto        - [Stage 8](#stage-8)auto        - [Stage 9](#stage-9)auto        - [Stage 10](#stage-10)auto- [Finished Product](#finished-product)auto    - [Code](#code)auto    - [Solidworks](#solidworks)auto    - [Final Product](#final-product)autoauto<!-- /TOC -->
 # Planning 
 ## Problem/Goal
 The final project/goal we are trying to accomplish is to create a motor that regulates its rpm like cruise control. The motor and all parts will be encased in a box with an LCD monitor that displays Actual Speed and Input Speed.
