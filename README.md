@@ -99,7 +99,7 @@ This week we are putting together the box, and it is taking a little longer than
 This week we finally finished! After solving some issues with the PID, switch wiring, and LED coding, we finally were able to put the box together before anything else broke. The final step that seemed to fix all of our problems was in the code. By taking out everything except the PID math out of the if statement, we were able to control the motor with and without the algorithm. We uploaded pictures and the code to the wiki, and everything is done.
 # Finished Product
 ## Code
-- [code](media/motorProject.ino)
+- [code](code/motorProject.ino)
 ## Solidworks
 - [Demo](media/full_box.jpg)
 - [Top View](media/top_view.jpg)
