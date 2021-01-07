@@ -98,7 +98,7 @@ The final project/goal we are trying to accomplish is to create a motor that reg
 
 ## Box Sketch
 <p align="left">
-  <img src="media/MotorProjectSketch.jpg" width="350" title="hover text">
+  <img src="media/MotorProjectSketch.jpg" width="350" height="350" title="hover text">
 </p>
 
 - [Box Sketch](media/MotorProjectSketch.jpg)
@@ -128,7 +128,7 @@ This week we finally finished! After solving some issues with the PID, switch wi
 - [code](code/motorProject.ino)
 ## Solidworks
 <p align="left">
-  <img src="media/full_box.jpg" width="350" title="hover text">
+  <img src="media/full_box.jpg" width="350" height="350" title="hover text">
 </p>
 
 - [Demo](media/full_box.jpg)
@@ -136,7 +136,7 @@ This week we finally finished! After solving some issues with the PID, switch wi
 - [Isometric View](media/isometric_view.jpg)
 ## Final Product
 <p align="left">
-  <img src="media/Motorpgif.gif" width="350" title="hover text">
+  <img src="media/Motorpgif.gif" width="350" height="350" title="hover text">
 </p>
 
 - [Demo Gif](media/Motorpgif.gif)
