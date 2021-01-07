@@ -19,27 +19,22 @@ The final project/goal we are trying to accomplish is to create a motor that reg
 - Screws
 - 3D printed flywheel
 ## Timeline
-**Dec 10 - 16: Research**
+### Dec 10 - 16: Research
 - PID Algorithms Designs
 - Previous projects
-
-**Jan 4 - 7:**
+### Jan 4 - 7:
 - Pick functions and outline code
-
-**Jan 8 - 20: Solidworks**
+### Jan 8 - 20: Solidworks
 - Initial shape/structure
 - Spacing
 - Mounts
-
-**Jan 20 - Jan 31: Code**
+### Jan 20 - Jan 31: Code
 - PID
 - Calculate RPM
-
-**Feb 1 - Feb 4: Integration and Proofing**
+### Feb 1 - Feb 4: Integration and Proofing
 - Wiring Arduino
 - Printing Parts
-
-**Feb 6 - 15: Assembly and Polish**
+### Feb 6 - 15: Assembly and Polish
 
 ## Possible Issues
 - Trouble understanding PID
@@ -49,25 +44,32 @@ The final project/goal we are trying to accomplish is to create a motor that reg
 **Milestone 1:**
 - Understand PID and RPM and have design chosen.
 - Have measurements
+
 **Milestone 2:**
 - Create base of box, no cuts yet.
+
 **Milestone 3:**
 - Create wheel
 - Finish cuts
 - Design mounts
+
 **Milestone 4:**
 - Finish all code
+
 **Milestone 5:**
 - Wire the arduino
 - Print Solidworks parts
 - Redesign as needed
+
 **Milestone 6:**
 - Assemble
 - Wire
 - Redesign as needed
+
 **Milestone 7:**
 - Assemble
 - Test
+
 ## Box Sketch
 - [Box Sketch](media/MotorProjectSketch.jpg)
 # Progress
