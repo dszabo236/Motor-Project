@@ -100,6 +100,7 @@ The final project/goal we are trying to accomplish is to create a motor that reg
 <p align="center">
   <img src="media/MotorProjectSketch.jpg" width="350" title="hover text">
 </p>
+
 - [Box Sketch](media/MotorProjectSketch.jpg)
 # Progress
 ### Stage 1
@@ -129,6 +130,7 @@ This week we finally finished! After solving some issues with the PID, switch wi
 <p align="center">
   <img src="media/full_box.jpg" width="350" title="hover text">
 </p>
+
 - [Demo](media/full_box.jpg)
 - [Top View](media/top_view.jpg)
 - [Isometric View](media/isometric_view.jpg)
@@ -136,6 +138,7 @@ This week we finally finished! After solving some issues with the PID, switch wi
 <p align="center">
   <img src="media/Motorpgif.gif" width="350" title="hover text">
 </p>
+
 - [Demo Gif](media/Motorpgif.gif)
 - [Top View](media/final_p_top.jpg)
 - [Isometric View](media/final_p_iso.jpg)
