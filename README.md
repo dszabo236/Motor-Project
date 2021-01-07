@@ -4,7 +4,7 @@ Project was creating a box with a cruise-control system for a spinning wheel bui
 # Table of Contents
 * [Planning](#planning)
 * [Progress](#progress)
-* [Components](*components)
+* [Finsihed Product](#finished-product)
 
 # Planning 
 ## Problem/Goal
@@ -94,6 +94,6 @@ This week we finally finished! After solving some issues with the PID, switch wi
 - [Top View](media/top_view.jpg)
 - [Isometric View](media/isometric_view.jpg)
 ## Final Product
-- [Demo Gif]](media/Motorpgif.gif)
+- [Demo Gif](media/Motorpgif.gif)
 - [Top View](media/final_p_top.jpg)
 - [Isometric View](media/final_p_iso.jpg)
