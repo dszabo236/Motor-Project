@@ -1,5 +1,5 @@
 # Motor-Project
-Project was creating a box with a cruise-control system for a spinning wheel built in. Completed on May 8th, 2017, in collaboration with Cole Fairchild. Original [wiki page](http://wiki.chssigma.com/index.php?title=Dani_and_Cole%27s_Motor_Project).
+Project was creating a box with a proportional-integral-derivative (PID) cruise-control system for a spinning wheel built in. Completed on May 8th, 2017, in collaboration with Cole Fairchild. Original [wiki page](http://wiki.chssigma.com/index.php?title=Dani_and_Cole%27s_Motor_Project).
 
 # Table of Contents
 <!-- TOC -->
